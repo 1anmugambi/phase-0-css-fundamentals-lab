@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+
+.navbar{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(131, 23, 23);
+}
+.para{
+  text-align: center; width: 800px; margin: 20px auto;
+}
+section{
+  style overflow: hidden;
+}
+
+.div{
+  width: 25%; float: left; background-color: rgb(194, 45, 45); text-align: center;
+}
